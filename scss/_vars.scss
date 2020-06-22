@@ -1,0 +1,36 @@
+$green: #cd2f43;
+
+html{
+	box-sizing: border-box;
+}
+
+body{
+  color: #666666;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+*,
+*::before,
+*::after{
+	box-sizing: inherit;
+}
+
+.container{
+  max-width: 1657px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+a{
+  color: #666666;
+  text-decoration: none;
+}
+
+ul{
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}

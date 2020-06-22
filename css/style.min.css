@@ -5046,6 +5046,7 @@ ul {
   background-repeat: no-repeat;
   text-transform: uppercase;
   min-height: 200px;
+  max-width: 495px;
 }
 
 .title-box__title {
